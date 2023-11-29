@@ -5,7 +5,7 @@
 
 - <b>App Develeopmant</b>
   - [Quiz App (Flutter-Dart)](https://github.com/RoryDodd/quiz_app)
-  - [Tic Tac Toe (Android-Java)](https://github.com/RoryDodd/tic_tac-toe)
+  - [Tic Tac Toe (Android-Java)](https://github.com/RoryDodd/tic_tac-toe.git)
 - <b>Web Develeopment</b>
   - [Basic Front-End Website](https://github.com/RoryDodd/good_gum)
 - <b>Machine Learning</b>
