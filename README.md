@@ -4,7 +4,7 @@
 <h3>School Based:</h3>
 
 - <b>App Develeopmant</b>
-  - [Quiz App (Flutter-Dart)](https://github.com/RoryDodd/quiz_app)
+  - [Quiz App (Flutter-Dart)](https://github.com/RoryDodd/quiz_app.git)
   - [Tic Tac Toe (Android-Java)](https://github.com/RoryDodd/tic_tac_toe.git)
 - <b>Web Develeopment</b>
   - [Basic Front-End Website](https://github.com/RoryDodd/good_gum)
