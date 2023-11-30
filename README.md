@@ -13,7 +13,7 @@
 
 <h3>Personal</h3>
 
-  - [Imperial/Metric Converter (Android - Java)](https://github.com/RoryDodd/front-end)
+  - [Imperial/Metric Converter (Android - Java)](https://github.com/RoryDodd/imperial-metric-app.git)
 
 <h4>**Keep an eye on this space, there is more to come!**</h4>
 
