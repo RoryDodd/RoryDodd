@@ -7,9 +7,10 @@
   - [Quiz App (Flutter-Dart)](https://github.com/RoryDodd/quiz_app.git)
   - [Tic Tac Toe (Android-Java)](https://github.com/RoryDodd/tic_tac_toe.git)
 - <b>Web Develeopment</b>
-  - [Basic Front-End Website (ASP.NET)](https://github.com/RoryDodd/front-end)
+  - [Basic Front-End Website (ASP.NET)](https://github.com/RoryDodd/front-end.git)
    
 - <b>Other</b>
+  - [Java Terminal UNO](https://github.com/RoryDodd/java-uno.git)
 
 <h3>Personal</h3>
 
