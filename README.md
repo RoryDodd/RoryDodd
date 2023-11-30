@@ -8,20 +8,17 @@
   - [Tic Tac Toe (Android-Java)](https://github.com/RoryDodd/tic_tac_toe.git)
 - <b>Web Develeopment</b>
   - [Basic Front-End Website](https://github.com/RoryDodd/good_gum)
-- <b>Machine Learning</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+   
 - <b>Other</b>
 
 <h3>Personal</h3>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
+[<img align="left" alt="RoryDodd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rorycdodd/
-[Github]: https://github.com/RoryDodd
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
