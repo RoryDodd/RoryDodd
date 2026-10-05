@@ -1,41 +1,54 @@
-<h1>Hi, I'm Rory! <br/>
+# Hi, I'm Rory! 👋
 
-<h2>Projects:</h2>
-<h3>School Based:</h3>
+IT professional and Software Engineering graduate with interests in Cyber Security, Networking, Cloud Computing, Systems Administration, and Software Development.
 
-- <b>App Develeopmant</b>
-  - [Quiz App (Flutter-Dart)](https://github.com/RoryDodd/quiz_app.git)
-  - [Tic Tac Toe (Android-Java)](https://github.com/RoryDodd/tic_tac_toe.git)
-- <b>Web Develeopment</b>
-  - [Basic Front-End Website (ASP.NET)](https://github.com/RoryDodd/front-end.git)
-   
-- <b>Other</b>
-  - [Java Terminal UNO](https://github.com/RoryDodd/java-uno.git)
+## Featured Project
 
-<h3>Personal</h3>
+### 🎓 Capstone Project
+- [Sentricom Security Management System](https:entricom
+  - Full-stack group project developed as part of my Bachelor of Information Technology.
+  - Demonstrates software engineering, database design, web development, project management, and team collaboration principles.
 
-  - [Imperial/Metric Converter (Android - Java)](https://github.com/RoryDodd/imperial-metric-app.git)
+---
 
-<h4>**Keep an eye on this space, there is more to come!**</h4>
+## Projects
 
-<h2> Connect with me:</h2>
+### School Based
+https://github.com/RoryDodd/Final-Project---Sentricom
 
+  - Feel free to explore my other personal projects as well.
+---
 
-[<img align="left" alt="RoryDodd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Skills & Technologies
 
-[linkedin]: https://www.linkedin.com/in/rorycdodd/
+**Programming:** Java, C++, JavaScript, SQL, HTML/CSS, Dart
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems & Infrastructure:** Linux, AWS, Device Imaging & Deployment
 
-Here are some ideas to get you started:
+**Networking:** Network Engineering, Network Troubleshooting, Cisco Packet Tracer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cyber Security:** Security Fundamentals, Risk Management, Defensive Security
+
+**Databases & Analytics:** SQL Databases, Database Design, Data Analysis
+
+---
+
+## Education
+
+**Bachelor of Information Technology (Software Engineering Major)**  
+La Trobe University
+
+**WAM:** 89.6  
+**GPA:** 6.88 / 7.0  
+**Career Ready Advantage Award (Silver)**
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/rorycdodd/
+- GitHub: https://github.com/RoryDodd
+
+---
+
+⭐ Feel free to explore my repositories as I continue building and sharing new projects.
