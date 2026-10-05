@@ -46,7 +46,7 @@ La Trobe University
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/rorycdodd/
+- LinkedIn: https://www.linkedin.com/in/rory-dodd-887349321/
 - GitHub: https://github.com/RoryDodd
 
 ---
